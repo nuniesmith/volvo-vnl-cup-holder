@@ -17,9 +17,11 @@ in view help settle any ambiguity.
 
 | # | Feature | Measured |
 |---:|---|---|
-| T1 | Where exactly are the two new spots? Do they have the same pocket/holes as the stock one, or will the clone attach to the ribbed shelf lip? (photo of each spot, marked) | |
-| T2 | Opening width × height, and depth available behind it | |
-| T3 | Clearance around the spot for a bigger cup (dash, seat, door, other holders) | |
+| T1 | Where do the new holders go? | **Any notch on the ribbed shelf lip; holders can be moved. Four fit side by side.** (owner) |
+| T2 | Notch pitch: center-to-center spacing of the ribs, and the gap between two ribs | |
+| T3 | Rib thickness and height; lip thickness and height; shelf length from the first to the last notch | |
+| T4 | How the stock holder grips the lip: which part hooks the lip (clip posts, orange clip's square end, or a slot in the box), and how you release it | |
+| T5 | Center-to-center spacing of two stock holders when four sit side by side | |
 
 ## Main body (stock part)
 

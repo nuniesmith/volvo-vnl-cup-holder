@@ -32,7 +32,7 @@ Molded on the underside of the body:
 | [clip_post_flange](../pictures/clip_post_flange.jpg) | Top face of the mount flange | Two split posts at the outer corners; ~2.2 in (~56 mm) from the post edge to where the cup curve starts. The grey tongue comes through the flange here. |
 | [box_inside_torsion_spring](../pictures/box_inside_torsion_spring.jpg) | Inside the open box | **Torsion spring on a metal pin** near the top, loading the grey tongue. The box is ~4.1 in (~104 mm) long. The orange clip sticks out of the far end. |
 | [underside_floor](../pictures/underside_floor.jpg) | Underside, clip installed | Scaled from the tape, the dark floor disc is ~3.3–3.4 in (~85 mm) and the outside of the cup ~3.85 in (~98 mm). The tape doesn't start at an edge, so caliper this. |
-| [truck_mounting_shelf](../pictures/truck_mounting_shelf.jpg) | In the truck | The stock holder sits in a pocket at the left end of a recessed shelf under the upper dash ledge. The shelf has a lip with about nine small vertical ribs. **Where the two new holders go and how they attach is not clear yet.** |
+| [truck_mounting_shelf](../pictures/truck_mounting_shelf.jpg) | In the truck | The stock holder sits in a pocket at the left end of a recessed shelf under the upper dash ledge. The shelf has a lip with about nine small vertical ribs. The owner confirmed that holders clip onto **any notch** along this lip and can be moved around; four fit side by side. |
 
 ## Clone notes
 
