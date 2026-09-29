@@ -1,6 +1,6 @@
 # Volvo VNL cup holder clone
 
-A 3D-printed clone of the stock **Volvo VNL dash cup holder (Volvo 84752175 REV P02)** for the **two empty spots** in the truck. The cup is **enlarged to fit the owner's YETI Rambler 36 oz bottle** (listed 3.75 in / 95.3 mm across), which does not fit the stock holder. It is printed on an **Ender 3 Neo (220 × 220 × 250 mm)**.
+A 3D-printed clone of the stock **Volvo VNL dash cup holder (Volvo 84752175 REV P02)** for the ribbed dash shelf, where holders clip onto **any notch** and four fit side by side. The cup is **enlarged to fit the owner's YETI Rambler 36 oz bottle** (listed 3.75 in / 95.3 mm across), which does not fit the stock holder. It is printed on an **Ender 3 Neo (220 × 220 × 250 mm)**.
 
 The clone is printed in **two parts, like the original**:
 

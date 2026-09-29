@@ -21,7 +21,9 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 - [ ] Print the bottle rings; record the smallest ring that slides freely along the lower bottle (Y4).
 - [ ] Print the step gauge; record the stock cup taper (B6).
 - [ ] Take the caliper measurements in [measurements.md](measurements.md), especially the mount (B1–B3), pivots (B8, C2) and springs (S2–S4).
-- [ ] Mark the two new spots on a photo and describe how they should attach (T1–T3).
+- [x] Mounting: holders clip onto any notch of the ribbed shelf lip and can be moved; four fit side by side (owner).
+- [ ] Measure the notch pitch, the rib and lip sizes, and how the stock holder grips the lip (T2–T5).
+- [ ] Check side-by-side clearance: the enlarged cup (~103 mm outside) is wider than the stock one (~98–99 mm). Neighbours may need to skip a notch.
 - [ ] Decide on the grey tongue: reuse a torsion spring, or a printed flex finger (B11).
 - [ ] Pick a filament: PETG or ASA suggested for cab heat.
 
