@@ -27,12 +27,20 @@ Molded on the underside of the body:
 | [IMG_0158](../pictures/IMG_0158.JPEG) | Top, tape along the length | ~6.6 in from the flange edge to the far rim |
 | [IMG_0159](../pictures/IMG_0159.JPEG) | Top, tape across the cup | Inside diameter at the rim ~4.0 in |
 | [IMG_0160](../pictures/IMG_0160.JPEG) | Underside, tape across | ~5.1 in across the widest point |
-| [IMG_0161](../pictures/IMG_0161.JPEG) | Yeti bottle base | ~3.6 in diameter |
+| [IMG_0161](../pictures/IMG_0161.JPEG) | YETI Rambler 36 oz base | ~3.6 in at the base; listed body diameter 3.75 in (95.3 mm) |
+| [mount_end_width](../pictures/mount_end_width.jpg) | Looking into the cup from above the mount end, tape across the box | Box/mount end ~3.9 in (~99 mm) wide. Two split clip posts on the top edge. |
+| [clip_post_flange](../pictures/clip_post_flange.jpg) | Top face of the mount flange | Two split posts at the outer corners; ~2.2 in (~56 mm) from the post edge to where the cup curve starts. The grey tongue comes through the flange here. |
+| [box_inside_torsion_spring](../pictures/box_inside_torsion_spring.jpg) | Inside the open box | **Torsion spring on a metal pin** near the top, loading the grey tongue. The box is ~4.1 in (~104 mm) long. The orange clip sticks out of the far end. |
+| [underside_floor](../pictures/underside_floor.jpg) | Underside, clip installed | Scaled from the tape, the dark floor disc is ~3.3–3.4 in (~85 mm) and the outside of the cup ~3.85 in (~98 mm). The tape doesn't start at an edge, so caliper this. |
+| [truck_mounting_shelf](../pictures/truck_mounting_shelf.jpg) | In the truck | The stock holder sits in a pocket at the left end of a recessed shelf under the upper dash ledge. The shelf has a lip with about nine small vertical ribs. **Where the two new holders go and how they attach is not clear yet.** |
 
 ## Clone notes
 
 - The clip and spring are a separate sub-assembly, so a two-part print (body + clip) matches the original.
-- The ordered **25 mm** springs are about 2 mm shorter than the stock one (~27 mm, photo reading).
+- There are **two springs**: the compression spring under the orange clip (~27 mm, photo reading) and a
+  **torsion spring** on a metal pin that loads the grey tongue. The tongue could instead be a printed flex
+  finger (PETG flexes well), but a flex finger may take a set in cab heat.
+- The ordered **25 mm** springs (a kit) are about 2 mm shorter than the stock compression spring.
   Model the clip's spring pocket and the body boss around the **new** spring's OD, wire size and
   free length, and check that the preload still returns the clip.
 - The clip's pivot pins are molded in. On a printed clip, they can be printed in place (clip lying
