@@ -4,8 +4,9 @@
 // Dimensions in mm. Print at 100%. See README.md.
 part="bottle_ring"; // bottle_ring | cup_step_gauge
 $fn=128;
-// Yeti bottle (owner's) base read as ~3.6 in (~91.4 mm) from IMG_0161; not a caliper value.
-ring_id=93.5;      // exported at 92.0, 93.5 and 95.0
+// Owner's bottle: YETI Rambler 36 oz, listed 3.75 in (95.25 mm) diameter.
+// IMG_0161 read the base as ~3.6 in; the body is the governing size.
+ring_id=97.5;      // exported at 96.0, 97.5 and 99.0
 ring_h=20;
 ring_wall=2.4;
 tab_w=28;

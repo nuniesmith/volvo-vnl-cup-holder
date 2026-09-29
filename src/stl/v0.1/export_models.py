@@ -2,7 +2,7 @@
 from pathlib import Path
 import subprocess
 ROOT=Path(__file__).resolve().parent
-JOBS=[(f"bottle_ring_{d}", {"part": '"bottle_ring"', "ring_id": d}) for d in ("92.0", "93.5", "95.0")]
+JOBS=[(f"bottle_ring_{d}", {"part": '"bottle_ring"', "ring_id": d}) for d in ("96.0", "97.5", "99.0")]
 JOBS.append(("cup_step_gauge", {"part": '"cup_step_gauge"'}))
 for name, params in JOBS:
     args=[a for k, v in params.items() for a in ("-D", f"{k}={v}")]

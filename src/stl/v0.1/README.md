@@ -1,7 +1,7 @@
 # v0.1 — measurement gauges
 
 **These are measuring aids, not cup holder parts.** They answer two questions before the body is modeled:
-how big the new cup must be for the Yeti bottle, and what shape the stock cup is inside.
+how big the new cup must be for the YETI Rambler 36 oz (listed 3.75 in / 95.3 mm), and what shape the stock cup is inside.
 
 ![Gauges](preview.png)
 
@@ -9,13 +9,13 @@ how big the new cup must be for the Yeti bottle, and what shape the stock cup is
 
 Print at **100% scale**, flat as supplied, with no supports. PLA is fine.
 
-1. **bottle_ring_92.0.stl, bottle_ring_93.5.stl, bottle_ring_95.0.stl** — 20 mm tall rings
+1. **bottle_ring_96.0.stl, bottle_ring_97.5.stl, bottle_ring_99.0.stl** — 20 mm tall rings
    with their inside diameter engraved on the tab. Slide each one over the **bottom** of the Yeti,
    then up the body as far as the cup will reach (about 60–70 mm).
    Record the smallest ring that slides on and off easily without catching.
    That diameter, plus a little clearance, sets the new cup bore.
-   If even 92.0 is loose, the bottle is smaller than the photo reading; measure it with calipers.
-   If 95.0 won't fit, change `ring_id` and re-export.
+   96.0 should be snug on a 95.3 mm bottle and 99.0 loose. Aim for easy in and out with a little play,
+   since the truck vibrates. If none fits, change `ring_id` and re-export.
 2. **cup_step_gauge.stl** — a hollow stepped cone, **104 mm down to 74 mm in 3 mm steps**,
    each 5 mm tall. The notch marks step 0, the widest. Push the **narrow end** into the stock cup
    with the grey spring tongue held back. Record which step stops at the rim, and how far down

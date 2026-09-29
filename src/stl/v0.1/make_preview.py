@@ -17,7 +17,7 @@ def view(ax,name,plane,title):
     ax.autoscale();ax.margins(.06);ax.set_aspect('equal');ax.set_title(title,fontsize=10)
     ax.set_xlabel('mm');ax.set_ylabel('mm');ax.set_facecolor('#f3f5f7')
 fig,axes=plt.subplots(1,3,figsize=(13,4.6),layout='constrained')
-view(axes[0],'bottle_ring_93.5','top','Bottle ring 93.5 mm ID (also 92.0, 95.0)')
+view(axes[0],'bottle_ring_97.5','top','Bottle ring 97.5 mm ID (also 96.0, 99.0)')
 view(axes[1],'cup_step_gauge','side','OEM cup step gauge, side (104 → 74 mm)')
 view(axes[2],'cup_step_gauge','top','Step gauge, top view')
 fig.suptitle('Volvo VNL cup holder v0.1 — measurement gauges',fontsize=14)
