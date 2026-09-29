@@ -1,0 +1,79 @@
+{
+  "units": "mm",
+  "checks": [
+    {
+      "file": "bottle_ring_92.0.stl",
+      "triangles": 3520,
+      "size_mm": [
+        110.8,
+        96.8,
+        20.0
+      ],
+      "min_z_mm": 0.0,
+      "connected_components": 1,
+      "nonmanifold_edges": 0,
+      "inconsistent_winding_edges": 0,
+      "degenerate_triangles": 0,
+      "volume_mm3": 15043.049,
+      "fits_220mm_bed_with_10mm_brim_per_side": true,
+      "within_250mm_z": true,
+      "sha256": "cbac36749aa87088d208a5bc17ac1e661a0bc13f3e7e40670564c30e307332a1"
+    },
+    {
+      "file": "bottle_ring_93.5.stl",
+      "triangles": 5456,
+      "size_mm": [
+        112.3,
+        98.3,
+        20.0
+      ],
+      "min_z_mm": 0.0,
+      "connected_components": 1,
+      "nonmanifold_edges": 0,
+      "inconsistent_winding_edges": 0,
+      "degenerate_triangles": 0,
+      "volume_mm3": 15263.275,
+      "fits_220mm_bed_with_10mm_brim_per_side": true,
+      "within_250mm_z": true,
+      "sha256": "5110d61d34cbdc62b4f0df6438b49b0380ab22f6314f1cb8dc505ac5d49b23ef"
+    },
+    {
+      "file": "bottle_ring_95.0.stl",
+      "triangles": 3788,
+      "size_mm": [
+        113.8,
+        99.8,
+        20.0
+      ],
+      "min_z_mm": 0.0,
+      "connected_components": 1,
+      "nonmanifold_edges": 0,
+      "inconsistent_winding_edges": 0,
+      "degenerate_triangles": 0,
+      "volume_mm3": 15493.769,
+      "fits_220mm_bed_with_10mm_brim_per_side": true,
+      "within_250mm_z": true,
+      "sha256": "fefbb86035e29f94fa853b00e2d94a04adefd99db2dc69ecc2e4290b6ae3d32c"
+    },
+    {
+      "file": "cup_step_gauge.stl",
+      "triangles": 11280,
+      "size_mm": [
+        104.0,
+        104.0,
+        55.0
+      ],
+      "min_z_mm": 0.0,
+      "connected_components": 1,
+      "nonmanifold_edges": 0,
+      "inconsistent_winding_edges": 0,
+      "degenerate_triangles": 0,
+      "volume_mm3": 30039.977,
+      "fits_220mm_bed_with_10mm_brim_per_side": true,
+      "within_250mm_z": true,
+      "sha256": "9c0b622d83bee51d908e6aaa10ba542b4d74d309773dcff99fcd433c2c06c771"
+    }
+  ],
+  "source_sha256": "b2b5497c790c6c29e9fcb17b30c327e6c56db088010778da12e5a895c8ba4a72",
+  "scope": "Closed oriented mesh, nonzero triangles, one component and nominal Ender 3 Neo envelope (220 x 220 x 250 mm). Not a slicer, material-strength or physical-fit certification."
+}
