@@ -18,17 +18,19 @@ in view help settle any ambiguity.
 | # | Feature | Measured |
 |---:|---|---|
 | T1 | Where do the new holders go? | **Any notch on the ribbed shelf lip; holders can be moved. Four fit side by side.** (owner) |
-| T2 | Notch pitch: center-to-center spacing of the ribs, and the gap between two ribs | |
-| T3 | Rib thickness and height; lip thickness and height; shelf length from the first to the last notch | |
-| T4 | How the stock holder grips the lip: which part hooks the lip (clip posts, orange clip's square end, or a slot in the box), and how you release it | |
-| T5 | Center-to-center spacing of two stock holders when four sit side by side | |
+| T2 | Rib pitch (center to center) | **~39.5 mm (1.55 in), photo** |
+| T3 | Rib thickness and height; lip thickness and height | |
+| T4 | How the bottom of the holder grips the lip (orange clip's square end between two ribs?), and how you release it | |
+| T5 | Center-to-center spacing of two stock holders side by side | ~118 mm (3 notches) from the flange edges, photo; confirm |
+| T6 | **Ledge holes:** hole diameter, center-to-center spacing (measure across 5 holes and divide by 4), and ledge thickness at the holes | |
+| T7 | Do the holes line up with the ribs, or sit halfway between them? | |
 
 ## Main body (stock part)
 
 | # | Feature | Photo estimate | Measured |
 |---:|---|---:|---|
 | B1 | Mounting flange width × depth × thickness | ~99 wide; ~56 post edge to cup curve | |
-| B2 | Clip post diameter, height, slot width, and center-to-center spacing | — | |
+| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | |
 | B3 | Box section outside width × height × length | ~99 wide, ~104 long | |
 | B4 | Cup inside diameter at the rim | ~101 | |
 | B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | |
@@ -54,7 +56,7 @@ in view help settle any ambiguity.
 
 | # | Feature | Stock | New (ordered) |
 |---:|---|---:|---|
-| S1 | Free length | ~27 | 25 (kit on order) |
-| S2 | Outside diameter | ~9 | |
-| S3 | Wire diameter | — | |
+| S1 | Free length | ~27 | 25 or 30 (kit) |
+| S2 | Outside diameter | ~9 | 6 (kit's largest) |
+| S3 | Wire diameter | ~0.8–1.0 (photo) | 0.5 |
 | S4 | Compressed length when installed | — | |

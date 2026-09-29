@@ -5,7 +5,7 @@ A 3D-printed clone of the stock **Volvo VNL dash cup holder (Volvo 84752175 REV 
 The clone is printed in **two parts, like the original**:
 
 - **Main body:** the cup, mounting flange and clip posts (grey on the stock part)
-- **Clip:** the spring-loaded arm on the underside (orange on the stock part), returned by a **25 mm compression spring** (a spring kit is on order)
+- **Clip:** the spring-loaded arm on the underside (orange on the stock part), returned by a compression spring from the ordered 304 stainless kit (**0.5 × 6 × 25 mm**, roughly 2–4× softer than stock)
 
 The stock part also has a **torsion spring on a metal pin** inside the box, which loads the grey tongue ([photo](pictures/box_inside_torsion_spring.jpg)). The clone needs that one too, or a printed flex tongue instead.
 
@@ -35,11 +35,18 @@ These are approximate tape readings from the photos, not caliper values.
 | Overall width across the underside | ~5.1 in (~130 mm) | [IMG_0160](pictures/IMG_0160.JPEG) |
 | Orange clip length | ~5.1 in (~129 mm) | [IMG_0156](pictures/IMG_0156.JPEG) |
 | Stock spring free length | ~1.05 in (~27 mm) | [IMG_0157](pictures/IMG_0157.JPEG) |
+| Shelf rib (notch) pitch | ~1.55 in (~39.5 mm) | [shelf_rib_pitch](pictures/shelf_rib_pitch.jpg) |
+| Two stock holders, center to center | ~4.6 in (~118 mm), 3 notches; to confirm | [two_holders_spacing](pictures/two_holders_spacing.jpg) |
 | YETI Rambler 36 oz diameter | **3.75 in (95.3 mm)**, listed spec; base read ~3.6 in | [IMG_0161](pictures/IMG_0161.JPEG) |
 
 The stock rim (~101 mm) is wider than the bottle (95.3 mm), but the cup tapers to about 85 mm at the floor,
 so the bottle jams partway down. The grey spring tongue also pushes into the cup. The clone needs a bore of
 about 97–98 mm most of the way down; the bottle rings pick the exact size.
+
+**How it mounts:** two split posts on the top flange snap up into a row of round holes under the upper
+dash ledge ([photo](pictures/ledge_underside_holes.jpg)), and the bottom sits at the ribbed lip. At about
+3 notches (~118 mm) per holder, four enlarged ~103 mm cups still fit side by side.
+See [photo review: mounting](docs/photo-review.md#mounting-from-the-in-truck-photos).
 
 ## What has been checked
 
