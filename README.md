@@ -29,8 +29,9 @@ These are approximate tape readings from the photos, not caliper values.
 |---|---:|---|
 | Stock cup opening, inside at the rim | ~4.0 in (~101 mm) | [IMG_0159](pictures/IMG_0159.JPEG) |
 | Stock cup floor, inside | ~3.3–3.4 in (~85 mm), scaled from the photo | [underside_floor](pictures/underside_floor.jpg) |
-| Mount end (box) width | ~3.9 in (~99 mm) | [mount_end_width](pictures/mount_end_width.jpg) |
-| Box length along the side | ~4.1 in (~104 mm) | [box_inside_torsion_spring](pictures/box_inside_torsion_spring.jpg) |
+| Box outside width | **93.2–93.3 mm** (caliper) | [photo](pictures/box_width_93_3mm.jpg) |
+| Width across the top at the posts | **105.0 mm** (caliper) | [photo](pictures/top_flange_105mm.jpg) |
+| Box length along the side | **102.2 mm** (caliper) | [photo](pictures/box_length_102_2mm.jpg) |
 | Clip-post edge to where the cup curve starts | ~2.2 in (~56 mm) | [clip_post_flange](pictures/clip_post_flange.jpg) |
 | Overall length, mount flange to far rim | ~6.6 in (~168 mm) | [IMG_0158](pictures/IMG_0158.JPEG) |
 | Overall width across the underside | ~5.1 in (~130 mm) | [IMG_0160](pictures/IMG_0160.JPEG) |
