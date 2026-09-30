@@ -9,7 +9,7 @@ The clone is printed in **two parts, like the original**:
 
 The stock part also has a **torsion spring on a metal pin** inside the box, which loads the grey tongue ([photo](pictures/box_inside_torsion_spring.jpg)). The clone needs that one too, or a printed flex tongue instead.
 
-**Current print checkpoint: [v0.2 mount test pieces](src/stl/v0.2/README.md)** (snap posts for the ledge holes; **wait for the post height before printing**), alongside the [v0.1 bottle rings and step gauge](src/stl/v0.1/README.md). No cup holder body or clip is modeled yet.
+**Current print checkpoint: [v0.2 mount test pieces](src/stl/v0.2/README.md)** (snap posts for the ledge holes), alongside the [v0.1 bottle rings and step gauge](src/stl/v0.1/README.md). No cup holder body or clip is modeled yet.
 
 ![v0.2 mount tests](src/stl/v0.2/preview.png)
 

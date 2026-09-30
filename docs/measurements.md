@@ -31,7 +31,7 @@ in view help settle any ambiguity.
 | # | Feature | Photo estimate | Measured |
 |---:|---|---:|---|
 | B1 | Mounting flange width × depth × thickness | ~99 wide; ~56 post edge to cup curve | **105.0 across the top at the posts** (owner, [photo](../pictures/top_flange_105mm.jpg)); depth and thickness still needed |
-| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | **spacing 75.5 mm** (owner); height, shank and barb diameter still needed |
+| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | **spacing 75.5 mm; height 10 mm** (owner); barb size picked by the v0.2 `post_fit` test |
 | B3 | Box section outside width × height × length | ~99 wide, ~104 long | **93.2–93.3 wide, 102.2 long** (owner, [photo](../pictures/box_width_93_3mm.jpg), [photo](../pictures/box_width_top_93_2mm.jpg), [photo](../pictures/box_length_102_2mm.jpg)) |
 | B4 | Cup inside diameter at the rim | ~101 | |
 | B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | |

@@ -7,17 +7,17 @@
       "size_mm": [
         105.5,
         24.0,
-        20.49
+        12.99
       ],
       "min_z_mm": 0.0,
       "connected_components": 1,
       "nonmanifold_edges": 0,
       "inconsistent_winding_edges": 0,
       "degenerate_triangles": 0,
-      "volume_mm3": 10569.08,
+      "volume_mm3": 9264.391,
       "fits_220mm_bed_with_10mm_brim_per_side": true,
       "within_250mm_z": true,
-      "sha256": "f8b423c761873d855a4ab9f75a930a99197c341971ecfedb48666d1ff82d1ad1"
+      "sha256": "9ec2837af1af66c6c676f07124d446aa389a77291d24e866b0ddfbb18d7c03f0"
     },
     {
       "file": "post_fit.stl",
@@ -25,19 +25,19 @@
       "size_mm": [
         72.0,
         30.0,
-        20.49
+        12.99
       ],
       "min_z_mm": 0.0,
       "connected_components": 1,
       "nonmanifold_edges": 0,
       "inconsistent_winding_edges": 0,
       "degenerate_triangles": 0,
-      "volume_mm3": 10947.297,
+      "volume_mm3": 8989.887,
       "fits_220mm_bed_with_10mm_brim_per_side": true,
       "within_250mm_z": true,
-      "sha256": "34b715a3d69ae3e563433fff193f4957d7c93e9897815ee0a533736cd44442e5"
+      "sha256": "29181046afd1851723255afbece6e511ce7fbc5e847aba621933afd2b7403543"
     }
   ],
-  "source_sha256": "0dfb2622d212bc5df53c2a4137c6f8bf86cc600ef79a874784ffa9f961115c33",
+  "source_sha256": "b121713152e9a9089e251e8bdfad6664ea8b99b6521147431f66afb0ff576951",
   "scope": "Closed oriented mesh, nonzero triangles, one component and nominal Ender 3 Neo envelope (220 x 220 x 250 mm). Not a slicer, material-strength or physical-fit certification."
 }

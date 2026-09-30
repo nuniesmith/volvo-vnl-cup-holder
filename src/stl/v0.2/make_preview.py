@@ -18,7 +18,7 @@ def view(ax,name,plane,title):
     ax.set_xlabel('mm');ax.set_ylabel('mm');ax.set_facecolor('#f3f5f7')
 fig,axes=plt.subplots(2,2,figsize=(12,6.5),layout='constrained')
 view(axes[0,0],'pitch_strip','top','Pitch strip, top: posts 75.5 mm apart')
-view(axes[1,0],'pitch_strip','side','Pitch strip, side: 17.5 mm split posts')
+view(axes[1,0],'pitch_strip','side','Pitch strip, side: 10 mm split posts')
 view(axes[0,1],'post_fit','top','Post fit, top: barbs 11.8 / 12.2 / 12.6 mm')
 view(axes[1,1],'post_fit','side','Post fit, side')
 fig.suptitle('Volvo VNL cup holder v0.2 — mount test pieces',fontsize=14)
