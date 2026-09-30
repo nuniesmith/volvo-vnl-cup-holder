@@ -28,7 +28,8 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 - [x] Caliper the ledge holes and clip posts: 11.5 mm hole, 75.5 mm post spacing, 20 mm ledge, 17.5 / 24 mm on the post (owner).
 - [x] 17.6 / 23.9 mm identified as orange clip dimensions (end tab, socket-end width), not post dimensions.
 - [x] Box 93.2–93.3 mm wide and 102.2 mm long; 105.0 mm across the top at the posts; 47.5 mm across the pivot lugs (owner).
-- [ ] Measure the stock post height (flange to tip), shank diameter and barb diameter ([guide](measure_posts.png)); then fix `post_h` and re-export v0.2.
+- [x] Stock post height 10 mm (owner); v0.2 re-exported with 10 mm posts. Barb size comes from the `post_fit` test.
+- [ ] Owner also gave 96 mm ("base") and 17 mm ("barb on the hook"): confirm which parts these were.
 - [x] Neighbouring ledge holes are 75.5 mm apart (owner), the same as the post spacing. Holders sit at least 2 holes (151 mm) apart center to center.
 - [x] Side-by-side clearance: at 151 mm minimum center spacing, the ~103 mm Yeti cup clears its neighbours.
 - [ ] Confirm how the bottom of the holder grips the lip (T4).
@@ -38,7 +39,7 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 ## v0.2 (after measurements)
 
 - [x] Export v0.2 mount tests: `post_fit.stl` (barbs 11.8 / 12.2 / 12.6 mm) and `pitch_strip.stl` (75.5 mm).
-- [ ] Print the v0.2 mount tests **after** `post_h` is corrected; pick the barb size and confirm the pitch in the truck.
+- [ ] Print the v0.2 mount tests; pick the barb size and confirm the pitch in the truck.
 - [ ] Model the clip with a pocket for the 6 mm OD kit spring (~6.6 mm bore, ~18–20 mm installed); test pivot and return.
 - [ ] Model the full body with the enlarged, tapered cup; decide the print orientation and supports.
 - [ ] Assemble the body, clip and spring; test the Yeti fit, clip action and rattles in the truck.
