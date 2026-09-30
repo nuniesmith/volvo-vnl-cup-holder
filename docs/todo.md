@@ -28,8 +28,8 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 - [x] Caliper the ledge holes and clip posts: 11.5 mm hole, 75.5 mm post spacing, 20 mm ledge, 17.5 / 24 mm on the post (owner).
 - [x] 17.6 / 23.9 mm identified as orange clip dimensions (end tab, socket-end width), not post dimensions.
 - [ ] Measure the stock post height (flange to tip), shank diameter and barb diameter; then fix `post_h` and re-export v0.2.
-- [ ] Measure between two **neighbouring** ledge holes (expected ~37.75 mm if the posts use every other hole).
-- [ ] Confirm two stock holders sit 3 notches (~118 mm) apart; then the ~103 mm Yeti cup clears its neighbours (T5).
+- [x] Neighbouring ledge holes are 75.5 mm apart (owner), the same as the post spacing. Holders sit at least 2 holes (151 mm) apart center to center.
+- [x] Side-by-side clearance: at 151 mm minimum center spacing, the ~103 mm Yeti cup clears its neighbours.
 - [ ] Confirm how the bottom of the holder grips the lip (T4).
 - [ ] Decide on the grey tongue: reuse a torsion spring, or a printed flex finger (B11).
 - [ ] Pick a filament: PETG or ASA suggested for cab heat.

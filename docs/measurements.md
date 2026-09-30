@@ -19,11 +19,11 @@ in view help settle any ambiguity.
 | # | Feature | Measured |
 |---:|---|---|
 | T1 | Where do the new holders go? | **Any notch on the ribbed shelf lip; holders can be moved. Four fit side by side.** (owner) |
-| T2 | Rib pitch (center to center) | ~39.5 mm from photo; probably **~37.75 mm** (half of the 75.5 mm post spacing). Confirm with two neighbouring holes |
+| T2 | Rib pitch (center to center) | ~39.5 mm from photo; ribs are on the lower lip and don't set the hole spacing |
 | T3 | Rib thickness and height; lip thickness and height | |
 | T4 | How the bottom of the holder grips the lip (orange clip's square end between two ribs?), and how you release it | |
 | T5 | Center-to-center spacing of two stock holders side by side | ~118 mm (3 notches) from the flange edges, photo; confirm |
-| T6 | **Ledge holes:** diameter, spacing, ledge thickness | **11.5 mm hole; 75.5 mm between the holes the posts use; ledge 20 mm thick** (owner) |
+| T6 | **Ledge holes:** diameter, spacing, ledge thickness | **11.5 mm hole; 75.5 mm between neighbouring holes; ledge 20 mm thick** (owner) |
 | T7 | Do the holes line up with the ribs, or sit halfway between them? | |
 
 ## Main body (stock part)

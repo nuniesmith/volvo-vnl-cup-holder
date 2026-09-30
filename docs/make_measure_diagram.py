@@ -12,7 +12,7 @@ def dim(ax,p,q,label,color,off=(0,0),ha='center'):
 
 fig,(a1,a2)=plt.subplots(1,2,figsize=(13,6.5),gridspec_kw={'width_ratios':[1,1.15]})
 # Side view of one snap post on the stock holder's top flange.
-a1.set_title('Side view: one snap post on top of the stock holder',fontsize=12)
+a1.set_title('Side view: one snap post on top of the GREY holder body\n(the two posts that push up into the ledge holes)',fontsize=12)
 a1.add_patch(Rectangle((-30,-6),60,6,color=GREY))
 a1.text(0,-3,'top flange of the holder',ha='center',va='center',color='white',fontsize=10)
 post=[(-5,0),(-5,12),(-6.5,15),(-6.5,18),(-4,21),(4,21),(6.5,18),(6.5,15),(5,12),(5,0)]
@@ -30,11 +30,10 @@ a1.text(-31,-10,'A = height, flange face to the tip\nB = post diameter at the ba
 # Underside of the dash ledge, looking up at the hole row.
 a2.set_title('Looking up at the underside of the dash ledge',fontsize=12)
 a2.add_patch(Rectangle((-10,-12),150,24,color='#c9ccd1'))
-for i,x in enumerate(range(0,151,38)[:4]):
+for i,x in enumerate(range(0,151,38)[:3]):
     a2.add_patch(Circle((x+10,0),5.75,color='#222'))
-dim(a2,(10,-8),(48,-8),'D',BLUE,off=(0,-3))
-dim(a2,(10,8),(86,8),'75.5 mm (done)',GREY,off=(0,3.2))
-a2.text(-9,-20,'D = center of one hole to the center of the hole right next to it\n(easy way: left edge to left edge of the two holes)',fontsize=11,va='top')
+dim(a2,(10,8),(48,8),'D = 75.5 mm (done)',GREY,off=(0,3.2))
+a2.text(-9,-20,'D = neighbouring holes, center to center: 75.5 mm (measured)',fontsize=11,va='top')
 a2.set_xlim(-12,142); a2.set_ylim(-32,20); a2.set_aspect('equal'); a2.axis('off')
-fig.suptitle('Cup holder snap posts: what to measure (A, B, C, D)',fontsize=15,fontweight='bold')
+fig.suptitle('Cup holder snap posts: what to measure (A, B, C)',fontsize=15,fontweight='bold')
 fig.savefig(Path(__file__).with_name('measure_posts.png'),dpi=110,bbox_inches='tight')
