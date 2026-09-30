@@ -29,7 +29,8 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 - [x] 17.6 / 23.9 mm identified as orange clip dimensions (end tab, socket-end width), not post dimensions.
 - [x] Box 93.2–93.3 mm wide and 102.2 mm long; 105.0 mm across the top at the posts; 47.5 mm across the pivot lugs (owner).
 - [x] Stock post height 10 mm (owner); v0.2 re-exported with 10 mm posts. Barb size comes from the `post_fit` test.
-- [ ] Owner also gave 96 mm ("base") and 17 mm ("barb on the hook"): confirm which parts these were.
+- [x] 96 mm is across the bottom of the stock cup (owner).
+- [ ] Owner also gave 17 mm ("barb on the hook"): confirm which part this was.
 - [x] Neighbouring ledge holes are 75.5 mm apart (owner), the same as the post spacing. Holders sit at least 2 holes (151 mm) apart center to center.
 - [x] Side-by-side clearance: at 151 mm minimum center spacing, the ~103 mm Yeti cup clears its neighbours.
 - [ ] Confirm how the bottom of the holder grips the lip (T4).
