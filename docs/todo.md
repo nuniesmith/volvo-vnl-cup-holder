@@ -27,7 +27,8 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 - [x] Spring kit: 304 stainless, largest 0.5 × 6 mm in 25/30 mm; roughly 2–4× weaker than stock.
 - [x] Caliper the ledge holes and clip posts: 11.5 mm hole, 75.5 mm post spacing, 20 mm ledge, 17.5 / 24 mm on the post (owner).
 - [x] 17.6 / 23.9 mm identified as orange clip dimensions (end tab, socket-end width), not post dimensions.
-- [ ] Measure the stock post height (flange to tip), shank diameter and barb diameter; then fix `post_h` and re-export v0.2.
+- [x] Box 93.2–93.3 mm wide and 102.2 mm long; 105.0 mm across the top at the posts; 47.5 mm across the pivot lugs (owner).
+- [ ] Measure the stock post height (flange to tip), shank diameter and barb diameter ([guide](measure_posts.png)); then fix `post_h` and re-export v0.2.
 - [x] Neighbouring ledge holes are 75.5 mm apart (owner), the same as the post spacing. Holders sit at least 2 holes (151 mm) apart center to center.
 - [x] Side-by-side clearance: at 151 mm minimum center spacing, the ~103 mm Yeti cup clears its neighbours.
 - [ ] Confirm how the bottom of the holder grips the lip (T4).
