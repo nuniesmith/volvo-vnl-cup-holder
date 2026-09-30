@@ -5,6 +5,7 @@
 > **Hold off printing:** the 17.5 mm used for `post_h` turned out to be an orange-clip measurement,
 > not the post height. Measure the stock post height (flange face to tip) and the barb diameter,
 > then `post_h` gets updated and the STLs re-exported.
+
 They check that the clone's posts fit the holes under the dash ledge before the full body is modeled.
 
 ![Mount test pieces](preview.png)
