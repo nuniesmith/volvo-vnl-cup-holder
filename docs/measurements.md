@@ -37,7 +37,7 @@ in view help settle any ambiguity.
 | B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | |
 | B6 | Step gauge result: step at the rim, and how deep the narrow end reached (v0.1 test) | — | |
 | B7 | Wall thickness of the cup and box | — | |
-| B8 | Pivot lug spacing, lug thickness and hole diameter | — | |
+| B8 | Pivot lug spacing, lug thickness and hole diameter | — | **47.5 outside to outside across the two pivot lugs** (owner, [photo](../pictures/pivot_lugs_47_5mm.jpg)); lug thickness and hole still needed |
 | B9 | Spring boss outside/inside diameter and height | — | |
 | B10 | Overall length, flange to far rim | ~168 | |
 | B11 | Torsion spring: pin diameter and length, coil OD, leg lengths, and where the legs bear | — | |
