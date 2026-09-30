@@ -18,11 +18,11 @@ in view help settle any ambiguity.
 | # | Feature | Measured |
 |---:|---|---|
 | T1 | Where do the new holders go? | **Any notch on the ribbed shelf lip; holders can be moved. Four fit side by side.** (owner) |
-| T2 | Rib pitch (center to center) | **~39.5 mm (1.55 in), photo** |
+| T2 | Rib pitch (center to center) | ~39.5 mm from photo; probably **~37.75 mm** (half of the 75.5 mm post spacing). Confirm with two neighbouring holes |
 | T3 | Rib thickness and height; lip thickness and height | |
 | T4 | How the bottom of the holder grips the lip (orange clip's square end between two ribs?), and how you release it | |
 | T5 | Center-to-center spacing of two stock holders side by side | ~118 mm (3 notches) from the flange edges, photo; confirm |
-| T6 | **Ledge holes:** hole diameter, center-to-center spacing (measure across 5 holes and divide by 4), and ledge thickness at the holes | |
+| T6 | **Ledge holes:** diameter, spacing, ledge thickness | **11.5 mm hole; 75.5 mm between the holes the posts use; ledge 20 mm thick** (owner) |
 | T7 | Do the holes line up with the ribs, or sit halfway between them? | |
 
 ## Main body (stock part)
@@ -30,7 +30,7 @@ in view help settle any ambiguity.
 | # | Feature | Photo estimate | Measured |
 |---:|---|---:|---|
 | B1 | Mounting flange width × depth × thickness | ~99 wide; ~56 post edge to cup curve | |
-| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | |
+| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | **spacing 75.5 mm; 17.5 and 24 mm given, features to confirm** (owner) |
 | B3 | Box section outside width × height × length | ~99 wide, ~104 long | |
 | B4 | Cup inside diameter at the rim | ~101 | |
 | B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | |

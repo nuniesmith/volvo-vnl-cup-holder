@@ -9,12 +9,13 @@ The clone is printed in **two parts, like the original**:
 
 The stock part also has a **torsion spring on a metal pin** inside the box, which loads the grey tongue ([photo](pictures/box_inside_torsion_spring.jpg)). The clone needs that one too, or a printed flex tongue instead.
 
-**Current print checkpoint: [v0.1 measurement gauges](src/stl/v0.1/README.md).** No cup holder body or clip is modeled yet. These gauges set the enlarged cup size and record the stock cup's shape. Caliper measurements of the mount and clip come next ([measurement sheet](docs/measurements.md)).
+**Current print checkpoint: [v0.2 mount test pieces](src/stl/v0.2/README.md)** (snap posts for the ledge holes), alongside the [v0.1 bottle rings and step gauge](src/stl/v0.1/README.md). No cup holder body or clip is modeled yet.
 
-![v0.1 gauges](src/stl/v0.1/preview.png)
+![v0.2 mount tests](src/stl/v0.2/preview.png)
 
 ## Start here
 
+- [v0.2 mount tests: snap posts for the ledge holes](src/stl/v0.2/README.md)
 - [v0.1 gauges: what to print and how to read them](src/stl/v0.1/README.md)
 - [Photo review of the stock part](docs/photo-review.md)
 - [Caliper measurements needed for the clone](docs/measurements.md)
@@ -35,8 +36,11 @@ These are approximate tape readings from the photos, not caliper values.
 | Overall width across the underside | ~5.1 in (~130 mm) | [IMG_0160](pictures/IMG_0160.JPEG) |
 | Orange clip length | ~5.1 in (~129 mm) | [IMG_0156](pictures/IMG_0156.JPEG) |
 | Stock spring free length | ~1.05 in (~27 mm) | [IMG_0157](pictures/IMG_0157.JPEG) |
-| Shelf rib (notch) pitch | ~1.55 in (~39.5 mm) | [shelf_rib_pitch](pictures/shelf_rib_pitch.jpg) |
-| Two stock holders, center to center | ~4.6 in (~118 mm), 3 notches; to confirm | [two_holders_spacing](pictures/two_holders_spacing.jpg) |
+| Ledge hole diameter | **11.5 mm** (caliper) | owner |
+| Post spacing, center to center | **75.5 mm** (caliper) | owner |
+| Ledge thickness at the holes | **20 mm** (caliper) | owner |
+| Shelf rib (notch) pitch | ~1.55 in (~39.5 mm) from photo; probably ~37.75 mm | [shelf_rib_pitch](pictures/shelf_rib_pitch.jpg) |
+| Two stock holders, center to center | ~4.6 in, about 3 notches (~113–118 mm); to confirm | [two_holders_spacing](pictures/two_holders_spacing.jpg) |
 | YETI Rambler 36 oz diameter | **3.75 in (95.3 mm)**, listed spec; base read ~3.6 in | [IMG_0161](pictures/IMG_0161.JPEG) |
 
 The stock rim (~101 mm) is wider than the bottle (95.3 mm), but the cup tapers to about 85 mm at the floor,
@@ -45,19 +49,20 @@ about 97–98 mm most of the way down; the bottle rings pick the exact size.
 
 **How it mounts:** two split posts on the top flange snap up into a row of round holes under the upper
 dash ledge ([photo](pictures/ledge_underside_holes.jpg)), and the bottom sits at the ribbed lip. At about
-3 notches (~118 mm) per holder, four enlarged ~103 mm cups still fit side by side.
+3 notches (~113–118 mm) per holder, four enlarged ~103 mm cups still fit side by side.
 See [photo review: mounting](docs/photo-review.md#mounting-from-the-in-truck-photos).
 
 ## What has been checked
 
-Only CAD checks. The v0.1 gauge STLs are closed, single-body meshes within the printer's build
+Only CAD checks. The v0.1 and v0.2 STLs are closed, single-body meshes within the printer's build
 volume ([mesh_checks.json](src/stl/v0.1/mesh_checks.json)). Nothing has been printed or fitted.
 
 ## Revision history
 
 | Directory | Role |
 |---|---|
-| [v0.1](src/stl/v0.1) | Bottle-fit rings (96.0 / 97.5 / 99.0 mm) and a stock-cup step gauge; no body or clip yet |
+| [v0.1](src/stl/v0.1) | Bottle-fit rings (96.0 / 97.5 / 99.0 mm) and a stock-cup step gauge |
+| [v0.2](src/stl/v0.2) | Mount test pieces: split snap posts (11.8 / 12.2 / 12.6 mm barbs) and a 75.5 mm pitch strip |
 
 ## Layout
 
