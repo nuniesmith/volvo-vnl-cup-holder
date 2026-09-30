@@ -34,7 +34,7 @@ in view help settle any ambiguity.
 | B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | **spacing 75.5 mm; height 10 mm** (owner); barb size picked by the v0.2 `post_fit` test |
 | B3 | Box section outside width × height × length | ~99 wide, ~104 long | **93.2–93.3 wide, 102.2 long** (owner, [photo](../pictures/box_width_93_3mm.jpg), [photo](../pictures/box_width_top_93_2mm.jpg), [photo](../pictures/box_length_102_2mm.jpg)) |
 | B4 | Cup inside diameter at the rim | ~101 | |
-| B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | |
+| B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | **96 across the bottom of the cup** (owner; likely outside); inside floor and depth still open |
 | B6 | Step gauge result: step at the rim, and how deep the narrow end reached (v0.1 test) | — | |
 | B7 | Wall thickness of the cup and box | — | |
 | B8 | Pivot lug spacing, lug thickness and hole diameter | — | **47.5 outside to outside across the two pivot lugs** (owner, [photo](../pictures/pivot_lugs_47_5mm.jpg)); lug thickness and hole still needed |

@@ -28,6 +28,7 @@ These are approximate tape readings from the photos, not caliper values.
 | Feature | Photo reading | Source |
 |---|---:|---|
 | Stock cup opening, inside at the rim | ~4.0 in (~101 mm) | [IMG_0159](pictures/IMG_0159.JPEG) |
+| Stock cup, across the bottom | **96 mm** (caliper, likely outside) | owner |
 | Stock cup floor, inside | ~3.3–3.4 in (~85 mm), scaled from the photo | [underside_floor](pictures/underside_floor.jpg) |
 | Box outside width | **93.2–93.3 mm** (caliper) | [photo](pictures/box_width_93_3mm.jpg) |
 | Width across the top at the posts | **105.0 mm** (caliper) | [photo](pictures/top_flange_105mm.jpg) |
