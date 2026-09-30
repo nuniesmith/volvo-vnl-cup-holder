@@ -1,6 +1,11 @@
 # v0.2 — mount test pieces
 
 **Small test prints for the snap posts only. No cup holder body or clip yet.**
+
+> **Hold off printing:** the 17.5 mm used for `post_h` turned out to be an orange-clip measurement,
+> not the post height. Measure the stock post height (flange face to tip) and the barb diameter,
+> then `post_h` gets updated and the STLs re-exported.
+
 They check that the clone's posts fit the holes under the dash ledge before the full body is modeled.
 
 ![Mount test pieces](preview.png)
@@ -12,10 +17,11 @@ They check that the clone's posts fit the holes under the dash ledge before the 
 | Ledge hole diameter | 11.5 mm | Shank 11.1 mm (0.4 mm clearance); barb 11.8–12.6 mm |
 | Post spacing, center to center | 75.5 mm | Pitch strip posts 75.5 mm apart |
 | Ledge thickness | 20 mm | Posts don't pass through; they grip inside the hole |
-| Post length | 17.5 mm | Post height above the plate (**assumed**; see below) |
+| Post length | **unknown** | `post_h` is 17.5 mm, which is **wrong**: 17.6 mm is the orange clip's end (see below) |
 
-The owner also gave **24 mm** for the clip post but didn't say which feature. v0.2 assumes 17.5 mm is the post
-height and doesn't use 24 mm yet. If 24 mm is the post height, change `post_h` and re-export.
+The 17.6 and 23.9 mm readings are the **orange clip**: 17.6 mm across its end tab
+([photo](../../../pictures/clip_end_17_6mm.jpg)) and 23.9 mm across the square-socket end
+([photo](../../../pictures/clip_socket_width_23_9mm.jpg)). The stock post height is still needed.
 
 ## Print and test
 
