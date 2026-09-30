@@ -30,7 +30,7 @@ in view help settle any ambiguity.
 | # | Feature | Photo estimate | Measured |
 |---:|---|---:|---|
 | B1 | Mounting flange width × depth × thickness | ~99 wide; ~56 post edge to cup curve | |
-| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | **spacing 75.5 mm; 17.5 and 24 mm given, features to confirm** (owner) |
+| B2 | Clip post diameter, barb (widest) diameter, height, slot width, and center-to-center spacing | spacing likely ~79 mm (2 pitches) | **spacing 75.5 mm** (owner); height, shank and barb diameter still needed |
 | B3 | Box section outside width × height × length | ~99 wide, ~104 long | |
 | B4 | Cup inside diameter at the rim | ~101 | |
 | B5 | Cup inside diameter at the floor, and cup depth | ~85 floor (scaled) | |
@@ -45,7 +45,7 @@ in view help settle any ambiguity.
 
 | # | Feature | Photo estimate | Measured |
 |---:|---|---:|---|
-| C1 | Overall length × width × thickness | ~129 long | |
+| C1 | Overall length × width × thickness | ~129 long | **23.9 wide at the square-socket end; 17.6 across the end tab** (owner, [photo](../pictures/clip_socket_width_23_9mm.jpg), [photo](../pictures/clip_end_17_6mm.jpg)) |
 | C2 | Pivot pin diameter and length; distance from each end | pins ~halfway | |
 | C3 | Spring pocket diameter and depth; distance from the pivot | — | |
 | C4 | Square socket inside size and depth | — | |

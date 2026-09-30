@@ -9,7 +9,7 @@ The clone is printed in **two parts, like the original**:
 
 The stock part also has a **torsion spring on a metal pin** inside the box, which loads the grey tongue ([photo](pictures/box_inside_torsion_spring.jpg)). The clone needs that one too, or a printed flex tongue instead.
 
-**Current print checkpoint: [v0.2 mount test pieces](src/stl/v0.2/README.md)** (snap posts for the ledge holes), alongside the [v0.1 bottle rings and step gauge](src/stl/v0.1/README.md). No cup holder body or clip is modeled yet.
+**Current print checkpoint: [v0.2 mount test pieces](src/stl/v0.2/README.md)** (snap posts for the ledge holes; **wait for the post height before printing**), alongside the [v0.1 bottle rings and step gauge](src/stl/v0.1/README.md). No cup holder body or clip is modeled yet.
 
 ![v0.2 mount tests](src/stl/v0.2/preview.png)
 
@@ -35,6 +35,8 @@ These are approximate tape readings from the photos, not caliper values.
 | Overall length, mount flange to far rim | ~6.6 in (~168 mm) | [IMG_0158](pictures/IMG_0158.JPEG) |
 | Overall width across the underside | ~5.1 in (~130 mm) | [IMG_0160](pictures/IMG_0160.JPEG) |
 | Orange clip length | ~5.1 in (~129 mm) | [IMG_0156](pictures/IMG_0156.JPEG) |
+| Orange clip width at the socket end | **23.9 mm** (caliper) | [photo](pictures/clip_socket_width_23_9mm.jpg) |
+| Orange clip end tab | **17.6 mm** (caliper) | [photo](pictures/clip_end_17_6mm.jpg) |
 | Stock spring free length | ~1.05 in (~27 mm) | [IMG_0157](pictures/IMG_0157.JPEG) |
 | Ledge hole diameter | **11.5 mm** (caliper) | owner |
 | Post spacing, center to center | **75.5 mm** (caliper) | owner |

@@ -1,13 +1,13 @@
 // v0.2 MOUNT TEST ONLY: split snap posts for the holes under the dash ledge.
 // Owner caliper values (2026-09-29): ledge hole 11.5 mm, post/hole spacing
-// 75.5 mm center to center, ledge 20 mm thick, post 17.5 mm (see README:
-// the 17.5 and 24 mm readings still need to be matched to features).
+// 75.5 mm center to center, ledge 20 mm thick. Post height is NOT yet
+// measured (see README): do not print until post_h is set.
 // Dimensions in mm. Print at 100%, plate flat on the bed, posts up, no supports.
 part="pitch_strip"; // pitch_strip | post_fit
 $fn=64;
 hole_d=11.5;       // measured
 post_pitch=75.5;   // measured, center to center
-post_h=17.5;       // measured; taken as post height above the flange (to confirm)
+post_h=17.5;       // PLACEHOLDER: 17.6 mm was an orange-clip reading; stock post height still needed
 shank_clear=0.4;   // shank is this much smaller than the hole
 lead_d=9.5;        // tip diameter, for an easy start into the hole
 barb_h=4;          // straight band of the barb
