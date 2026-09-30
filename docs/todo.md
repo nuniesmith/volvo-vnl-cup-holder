@@ -25,7 +25,9 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 - [x] Read the rib pitch from the photo: ~39.5 mm (1.55 in).
 - [x] Mount identified: two split posts snap into round holes under the upper ledge.
 - [x] Spring kit: 304 stainless, largest 0.5 × 6 mm in 25/30 mm; roughly 2–4× weaker than stock.
-- [ ] Caliper the ledge holes (diameter, pitch over 5 holes, ledge thickness) and the clip posts (T6, B2).
+- [x] Caliper the ledge holes and clip posts: 11.5 mm hole, 75.5 mm post spacing, 20 mm ledge, 17.5 / 24 mm on the post (owner).
+- [ ] Say which post features the 17.5 and 24 mm are; send the clip post photos.
+- [ ] Measure between two **neighbouring** ledge holes (expected ~37.75 mm if the posts use every other hole).
 - [ ] Confirm two stock holders sit 3 notches (~118 mm) apart; then the ~103 mm Yeti cup clears its neighbours (T5).
 - [ ] Confirm how the bottom of the holder grips the lip (T4).
 - [ ] Decide on the grey tongue: reuse a torsion spring, or a printed flex finger (B11).
@@ -33,7 +35,8 @@ Updated 2026-09-29. [v0.1 gauges](../src/stl/v0.1/README.md) · [Measurements](m
 
 ## v0.2 (after measurements)
 
-- [ ] Mount coupon: flange strip with two split posts at the measured hole pitch; test snap-in and removal in the truck.
+- [x] Export v0.2 mount tests: `post_fit.stl` (barbs 11.8 / 12.2 / 12.6 mm) and `pitch_strip.stl` (75.5 mm).
+- [ ] Print the v0.2 mount tests; pick the barb size and confirm the pitch in the truck.
 - [ ] Model the clip with a pocket for the 6 mm OD kit spring (~6.6 mm bore, ~18–20 mm installed); test pivot and return.
 - [ ] Model the full body with the enlarged, tapered cup; decide the print orientation and supports.
 - [ ] Assemble the body, clip and spring; test the Yeti fit, clip action and rattles in the truck.
