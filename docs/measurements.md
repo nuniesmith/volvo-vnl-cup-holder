@@ -1,6 +1,7 @@
 # Measurements needed for the clone
 
-Use calipers where possible and record values in mm. Fill in the "Measured" column
+Use calipers where possible and record values in mm.
+For the snap posts, see the [measuring guide](measure_posts.png) (A, B, C, D). Fill in the "Measured" column
 (or reply with the numbers) and the CAD will be built from them. Photos with a caliper
 in view help settle any ambiguity.
 
